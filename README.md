@@ -1,3 +1,3 @@
 # AWERobustHub
 
-Basis of (npss14)[npss14.ru]
+Basis of (npss14)[https://npss14.ru]
